@@ -1,0 +1,26 @@
+#search {
+    border: none;
+    outline:  none;
+}
+
+.active {
+    background: #FEEFC3;
+    color: #202124;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.asideLink:hover {
+    background: #f1f3f4;
+    color: #202124;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+main {
+    margin-left: 25% !important;
+    margin-top: 5rem;
+    /* height: 100vh; */
+    background: #202124;
+    color: #f1f3f4;
+}
